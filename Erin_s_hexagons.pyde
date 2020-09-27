@@ -1,5 +1,5 @@
 size(200, 200)
-hexagon_radius=10
+hexagon_radius=6
 sqrt_3_2=sqrt(3)/2
 s = createShape()
 s.beginShape()
